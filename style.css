@@ -1,6 +1,6 @@
 img {
   width: 30%;
-  border: white 5px solid;
+  border: white 5px solid
 }
 
 body {
@@ -39,4 +39,8 @@ nav a:hover {
 
 h1 {
   color: white;
+}
+
+h2 {
+  color:white;
 }
